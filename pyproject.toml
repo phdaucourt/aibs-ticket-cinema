@@ -5,5 +5,6 @@ description = "AIBS: Ticket de cinéma"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
+    "babel>=2.18.0",
     "marimo>=0.23.8",
 ]
