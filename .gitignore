@@ -1,0 +1,43 @@
+# Environnement virtuel local
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Fichiers de lock et métadonnées
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Fichiers de test
+.pytest_cache/
+
+# Fichiers de distribution
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Fichiers Jupyter
+.ipynb_checkpoints/
+
+# Fichiers IDE
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Générés / temporaires
+*.aux
+*.log
+*.out
+*.toc
+*~
