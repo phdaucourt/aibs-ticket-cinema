@@ -1,0 +1,9 @@
+[project]
+name = "aibs-ticket-cinema"
+version = "0.1.0"
+description = "AIBS: Ticket de cinéma"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "marimo>=0.23.8",
+]
